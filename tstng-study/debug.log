@@ -1,0 +1,11 @@
+[1222/213729.552:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.553:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.553:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.554:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.554:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.554:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.555:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.555:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.555:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1222/213729.555:ERROR:exception_snapshot_win.cc(87)] thread ID 7372 not found in process
+[1222/213729.555:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
